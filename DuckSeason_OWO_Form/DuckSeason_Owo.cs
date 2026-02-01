@@ -84,7 +84,7 @@ namespace DuckSeason_OWO_Form
         /// </summary>
         public static void ReadSensationsToPlay()
         {
-            if (false)//OwoConnectionState != ConnectionState.Connected)
+            if (OwoConnectionState != ConnectionState.Connected)
                 // owoskin is not connected
                 return;
 

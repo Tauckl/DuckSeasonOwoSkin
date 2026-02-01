@@ -67,7 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DuckSeason_bHaptics.cs" />
+    <Compile Include="DuckSeason_owoskin.cs" />
     <Compile Include="ForceTubeVRInterface.cs" />
     <Compile Include="MyBhapticsTactsuit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

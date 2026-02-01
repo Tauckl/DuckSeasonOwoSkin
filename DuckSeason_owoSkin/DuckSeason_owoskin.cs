@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace DuckSeason_bHaptics
 {
-    public class DuckSeason_bHaptics : MelonMod
+    public class DuckSeason_owoskin : MelonMod
     {
         public static TactsuitVR tactsuitVr;
 
