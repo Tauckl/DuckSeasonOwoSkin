@@ -5,7 +5,7 @@ VisualStudioVersion = 18.1.11312.151
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSeason_OWO_MLMod", "DuckSeason_OWO_MLMod.csproj", "{0E9E5375-029A-4E65-B876-108C6E0537CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSeason_OWO_Interpreter", "..\DuckSeason_OWO_Form\DuckSeason_OWO_Interpreter.csproj", "{57DF3E59-AEEE-4EEA-B2A9-AE2FB849896D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSeason_OWO_Interpreter", "..\DuckSeason_OWO_Interpreter\DuckSeason_OWO_Interpreter.csproj", "{57DF3E59-AEEE-4EEA-B2A9-AE2FB849896D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
