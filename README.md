@@ -1,12 +1,11 @@
 # DuckSeason_bHaptics
 
 This repository was forked from Astienth/DuckSeason_bHaptics to add owoskin compatibility to the game Duck Season.
-It does not yet work..
 
 
 # Description
 
-This mod adds provolver and bhaptics (vest and arms) support to the game
+This mod adds owoskin support to the game
 
 # Installation
 
