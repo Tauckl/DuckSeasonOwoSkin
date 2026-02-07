@@ -7,8 +7,8 @@
     <ProjectGuid>{0E9E5375-029A-4E65-B876-108C6E0537CE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DuckSeason_bHaptics</RootNamespace>
-    <AssemblyName>DuckSeason_bHaptics</AssemblyName>
+    <RootNamespace>DuckSeason_owo</RootNamespace>
+    <AssemblyName>DuckSeason_owo</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

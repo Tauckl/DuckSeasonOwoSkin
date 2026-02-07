@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>owoDs.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="OWO, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\DuckSeason_owoSkin\packages\OWO.2.4.2\lib\net48\OWO.dll</HintPath>
@@ -83,6 +86,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Sensations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="owoDs.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

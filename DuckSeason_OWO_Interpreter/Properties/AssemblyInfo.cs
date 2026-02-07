@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DuckSeason_OWO_Form")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("DuckSeason_OWO")]
+[assembly: AssemblyDescription("Duck Season OWO Interpreter")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DuckSeason_OWO_Form")]
-[assembly: AssemblyCopyright("Copyright ©  2026")]
+[assembly: AssemblyProduct("DuckSeason_OWO")]
+[assembly: AssemblyCopyright("Copyright © Tauckl 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
